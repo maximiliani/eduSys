@@ -32,6 +32,11 @@
 
 ## Umsetzung
 
+Benutzerverwaltung:
+- samba4 --> AD
+- Script für Input von schILD NRW
+- freeipa
+
 Nextcloud:
 - Komplette Homeverzeichnisse
 - Verzeichnisse von Gruppen/Circles erscheinen automatisch auch auf Endgeräten und können selbst verwaltet werden
