@@ -11,7 +11,7 @@
 - DNS
 - DHCP
 - Firewall
-- RADIUS (Anmeldung an WLAN/LAN)
+- RADIUS (Anmeldung an WLAN/LAN) oder eduroam
 - evtl. gerätespezifische WLAN-Passwörter --> siehe [KIT-IOT](https://www.scc.kit.edu/dienste/internet-of-things.php)
 - evtl. anpassbare DNS/DHCP Einstellungen für Schulleitung --> siehe NETVS am KIT
 - Setupassistent
@@ -41,6 +41,7 @@ Nextcloud:
 - 2FA
 - Moodle-Integration
 - Zammad-Integration
+- sonstige Tools (z.B. Pico-CMS, ...)
 
 Desktop-OS: 
 - Arch --> Manjaro
