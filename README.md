@@ -44,7 +44,7 @@ Nextcloud:
 - Collabora Online
 - Groupware
 - Signieren und Zustimmen von Dokumenten --> evtl. Elternzugriff
-- 2FA
+- 2FA für Lehrer und Eltern (mehrere Möglichkeiten anbieten)
 - Moodle-Integration
 - Zammad-Integration
 - sonstige Tools (z.B. Pico-CMS, ...)
