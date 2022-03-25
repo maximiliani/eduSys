@@ -4,6 +4,7 @@
 - Zentrale Homeverzeichnisse
 - Zentrale Benutzer-/Speicher-/Mailverwaltung
 - Identitätsprovider für Föderation (z.B. mit DFN-AAI) --> Shibboleth
+- Druckserver (CUPS) (über Subnetting? oder Gruppen)
 - Nextcloud
 - Moodle (LMS)
 - Zammad (Servicedesk)
