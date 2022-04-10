@@ -33,12 +33,12 @@
 ## Umsetzung
 
 Benutzerverwaltung:
-- samba4 --> AD
+- openLDAP 
 - Script für Input von schILD NRW
-- freeipa
+- Kerberos
 
 Nextcloud:
-- Komplette Homeverzeichnisse
+- Automatische Syncronisation über Nextcloud client
 - Verzeichnisse von Gruppen/Circles erscheinen automatisch auch auf Endgeräten und können selbst verwaltet werden
 - Talk/BBB
 - Collabora Online
